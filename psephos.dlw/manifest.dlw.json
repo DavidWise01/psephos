@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-PSEPHOS",
+  "name": "PSĒPHOS · PSE",
+  "universe": "PSĒPHOS",
+  "moniker": "⟦PSĒPHOS · PSE:psephos:ddc78e⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "ddc78efa513e57d38367bbe4cb622f5309d4124feb2b98bcc4b59c27ed590c44",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
