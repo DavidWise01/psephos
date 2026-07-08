@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 543
+slug  : psephos
+seal  : ddc78efa513e57d38367bbe4cb622f5309d4124feb2b98bcc4b59c27ed590c44
+prev  : ad9717e58f65ac3dea9dd7be157b909f1fd0623b7a6528e66f95b3bb6fa65d8c
+link  : 41e86a7de3d94cb9ebbc35f3611ba4a673229d3836641b695d0f6098f7703178
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
